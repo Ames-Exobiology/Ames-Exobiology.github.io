@@ -1,0 +1,19 @@
+# Site navigation links
+
+page_list: Ames Exobiology
+pages:
+  
+- title: Home
+  url: /
+
+- title: AHED
+  url: /ahed/
+  
+- title: CLD
+  url: /cld/
+  
+- title: HEB
+  url: /heb/
+  
+- title: MIER
+  url: /mier/
