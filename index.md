@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ames SSX
+title: Ames-SSX
 permalink: /
 navigation_weight: 1
 nav_name: Home
@@ -10,6 +10,7 @@ nav_name: Home
 
 [NASA's exobiology branch](https://www.nasa.gov/content/exobiology-branch-code-ssx) lives in building N239 at the Ames Research Center in Moffett Field, CA, USA. Here you can find the latest goals, presentations, papers, and more from some of our groups.
 
+---
 ---
 
 **[Astrobiology Habitable Environments Database (AHED)](/ahed)**  
