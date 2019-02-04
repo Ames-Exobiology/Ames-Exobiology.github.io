@@ -33,3 +33,5 @@ The program and documentation are available **[here](https://github.com/Astrobio
 
 [Publications]()  
 [Presentations]()  
+
+## People
